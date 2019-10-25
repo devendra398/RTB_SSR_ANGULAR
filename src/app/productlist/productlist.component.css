@@ -1,0 +1,29 @@
+.cardImage{
+    width:10%;
+}
+
+.example-card{
+    margin:10px;
+}
+
+.mat-grid-tile{
+    overflow-y: scroll;
+    left: 0px;
+    width: calc(((50% - 0.5px) * 1) + 0px);
+    margin-top: 0px;
+    padding-top: 0px; 
+}
+
+.mat-grid-tile .mat-figure {
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: relative; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}

@@ -1,0 +1,6 @@
+
+.mat-grid-tile-class .mat-figure, .mat-grid-tile .mat-figure{
+   display:block !important;
+   overflow-y:scroll !important;
+}
+
